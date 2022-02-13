@@ -69,6 +69,19 @@ const USER_ACTIVITY = [
                 day: '2020-07-07',
                 kilogram: 76,
                 calories: 390
+            },
+            {
+                day: '2020-07-08',
+                kilogram: 72.5,
+                calories: 290
+            },{
+                day: '2020-07-09',
+                kilogram: 75,
+                calories: 320
+            },{
+                day: '2020-07-10',
+                kilogram: 73,
+                calories: 250
             }
         ]
     },
@@ -109,6 +122,19 @@ const USER_ACTIVITY = [
                 day: '2020-07-07',
                 kilogram: 69,
                 calories: 390
+            },
+            {
+                day: '2020-07-08',
+                kilogram: 72.5,
+                calories: 290
+            },{
+                day: '2020-07-09',
+                kilogram: 75,
+                calories: 320
+            },{
+                day: '2020-07-10',
+                kilogram: 71.5,
+                calories: 300
             }
         ]
     }
